@@ -18,7 +18,6 @@ This CS Cart module provides an easy method to integrate with the payment gatewa
 
 - The module requires the following prerequisites to be met in order to function correctly:
     - For a full list of requirements please see: https://docs.cs-cart.com/latest/install/system_requirements.html
-    - SSL **NB: HTTPS is expected to be in place as the payment gateway will respond over SSL when integrating directly. Failure to provide an environment where HTTPS traffic is possible, will result in the 3DSv2 payment flow failing***
 
 > Please note that we can only offer support for the Module itself. While every effort has been made to ensure the payment module is complete and bug free, we cannot guarentee normal functionality if unsupported changes are made.
 
@@ -35,6 +34,7 @@ To rebrand this module, complete the following steps:
 	- Line 7: change the URL to that which we supply
 	- Line 14: change the ID to that which we supply
 	- Line 15: change the SECRET to that which we supply
+3. When downloading as a zip file, you can right-click and rename to remove the `Unbranded` text from the filename.
 
 # Installing and configuring the module
 
