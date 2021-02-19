@@ -41,7 +41,7 @@ To rebrand this module, complete the following steps:
 1. Unzip / untar and merge the httpdocs folder into the root folder of your CS-Cart installation.
 2. Login to your CS-Cart installation and navigate to Administration > Payment Methods from the top menu
 3. Click the '+' symbol at the top of the page to add a new payment method.
-4. Fill out the form and select Cardstream as the processor. Click on the 'Configure' tab and enter the relevant information before clicking 'Create'.
+4. Fill out the form and select PaymentNetwork as the processor. Click on the 'Configure' tab and enter the relevant information before clicking 'Create'.
 5. The module will now be available as a payment method in the checkout procedure.
 
 License
